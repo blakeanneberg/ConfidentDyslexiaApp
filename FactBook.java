@@ -8,7 +8,7 @@ import java.util.Random;
 public class FactBook {
 
 
-    //member variable   properties of the object
+    //member variable properties of the object
     public String[] mFacts = {
             "Success happens because of your Dyslexia, not despite it.",
             "The accommodation needs for people with physical disabilities are the same as for people with Learning Disabilities like Dyslexia.",
